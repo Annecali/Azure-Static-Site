@@ -6,5 +6,4 @@ This repository contains the details and procedures on the Deployment of Azure S
 ## Tools Used
 
 ## Contact
----
 Email: cha.calingasan@gmail.com
